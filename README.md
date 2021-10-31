@@ -1,4 +1,8 @@
 # Shravani-m
+           *CYBERSECURITY*
+Cybersecurity is the ongoing effort to protect networked 
+systems and all of the data from unauthorized use or harm.
+Here,password attack is any means by which a hacker attempts to obtain a user’s login information
 #What is Password
 Passwords provide the first line of defense against unauthorized
 access to your computer and personal information.
